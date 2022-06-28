@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Note_Keeper.iml" filepath="$PROJECT_DIR$/.idea/modules/Note_Keeper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Note_Keeper.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Note_Keeper.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Note_Keeper.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Note_Keeper.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Note_Keeper.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Note_Keeper.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Note_Keeper.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Note_Keeper.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>
